@@ -1,8 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: gWPCXbGPSyIN4OuTa3m3KQ
 ! Version: 202111160945
 ! Title: Allow nonintrusive advertising without third-party tracking
-! Expires: 1 days
 music.163.com##.lst
 music.163.com##.m-topvd.f-pr.m-creator-center
 music.163.com##.m-multi
