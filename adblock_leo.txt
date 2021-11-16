@@ -1,6 +1,5 @@
 [Adblock Plus 2.0]
 ! Version: 202111160945
-! Title: Allow nonintrusive advertising without third-party tracking
 music.163.com##.lst
 music.163.com##.m-topvd.f-pr.m-creator-center
 music.163.com##.m-multi
