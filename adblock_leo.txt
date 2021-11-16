@@ -1,5 +1,3 @@
-[Adblock Plus 3.1]
-
 music.163.com##.lst
 music.163.com##.m-topvd.f-pr.m-creator-center
 music.163.com##.m-multi
